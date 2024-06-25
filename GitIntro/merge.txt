@@ -3,3 +3,5 @@ x = "Apples"
 y = "Pears"
 z = "Oranges"
 print(x,y,z, sep = " and ")
+print("I love all of my trees")
+print(y,z,x)
